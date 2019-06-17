@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.271
+VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizePropertyGridCategories", "Reporting-Customize-the-Property-Grid-in-the-Wpf-Report-Designer\CustomizePropertyGridCategories.csproj", "{A8AEF32E-C518-4056-AC18-1FE6DBBE8A91}"
 EndProject
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C1A45E10-6700-430A-8B5E-DD92FE3B15A7}
+		SolutionGuid = {CBC84459-774E-4154-812B-52747CC90058}
 	EndGlobalSection
 EndGlobal
