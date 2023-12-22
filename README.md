@@ -9,8 +9,8 @@ This example demonstrates how to move a property to a custom tab in the Report D
 
 ## Files to Review
 
-* [MainWindow.xaml](CS/MainWindow.xaml)
-* [MainWindow.xaml.cs](CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](CS/MainWindow.xaml.vb))
+* [MainWindow.xaml](CS/Reporting-Customize-the-Property-Grid-in-the-Wpf-Report-Designer/MainWindow.xaml)
+* [MainWindow.xaml.cs](CS/Reporting-Customize-the-Property-Grid-in-the-Wpf-Report-Designer/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](CS/Reporting-Customize-the-Property-Grid-in-the-Wpf-Report-Designer/MainWindow.xaml.vb))
 
 ## Documentation 
 
