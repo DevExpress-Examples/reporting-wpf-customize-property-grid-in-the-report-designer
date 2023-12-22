@@ -9,8 +9,8 @@ This example demonstrates how to move a property to a custom tab in the Report D
 
 ## Files to Review
 
-* [MainWindow.xaml](CS/MainWindow.xaml)
-* [MainWindow.xaml.cs](CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](CS/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/MainWindow.xaml)
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
 
 ## Documentation 
 
