@@ -18,7 +18,7 @@ This example demonstrates how to move a property to a custom tab in the Report D
 * [Customize the Properties Window in the Report Designer](https://docs.devexpress.com/XtraReports/400942)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-customize-property-grid-in-the-report-designer&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-customize-property-grid-in-the-report-designer&~~~was_helpful=no)
 
